@@ -1,0 +1,771 @@
+id,country,gas,cause,yr_recorded,unit,total
+1,"United States of America","Emissions (CH4)","Enteric Fermentation",1961,"kiloton of co2 equiv",171920
+2,"United States of America","Emissions (CH4)","Enteric Fermentation",1962,"kiloton of co2 equiv",174504
+3,"United States of America","Emissions (CH4)","Enteric Fermentation",1963,"kiloton of co2 equiv",178409
+4,"United States of America","Emissions (CH4)","Enteric Fermentation",1964,"kiloton of co2 equiv",181290
+5,"United States of America","Emissions (CH4)","Enteric Fermentation",1965,"kiloton of co2 equiv",181334
+6,"United States of America","Emissions (CH4)","Enteric Fermentation",1966,"kiloton of co2 equiv",179292
+7,"United States of America","Emissions (CH4)","Enteric Fermentation",1967,"kiloton of co2 equiv",178127
+8,"United States of America","Emissions (CH4)","Enteric Fermentation",1968,"kiloton of co2 equiv",177648
+9,"United States of America","Emissions (CH4)","Enteric Fermentation",1969,"kiloton of co2 equiv",177500
+10,"United States of America","Emissions (CH4)","Enteric Fermentation",1970,"kiloton of co2 equiv",179808
+11,"United States of America","Emissions (CH4)","Enteric Fermentation",1971,"kiloton of co2 equiv",182811
+12,"United States of America","Emissions (CH4)","Enteric Fermentation",1972,"kiloton of co2 equiv",186460
+13,"United States of America","Emissions (CH4)","Enteric Fermentation",1973,"kiloton of co2 equiv",190485
+14,"United States of America","Emissions (CH4)","Enteric Fermentation",1974,"kiloton of co2 equiv",198211
+15,"United States of America","Emissions (CH4)","Enteric Fermentation",1975,"kiloton of co2 equiv",203074
+16,"United States of America","Emissions (CH4)","Enteric Fermentation",1976,"kiloton of co2 equiv",197069
+17,"United States of America","Emissions (CH4)","Enteric Fermentation",1977,"kiloton of co2 equiv",190171
+18,"United States of America","Emissions (CH4)","Enteric Fermentation",1978,"kiloton of co2 equiv",181467
+19,"United States of America","Emissions (CH4)","Enteric Fermentation",1979,"kiloton of co2 equiv",174177
+20,"United States of America","Emissions (CH4)","Enteric Fermentation",1980,"kiloton of co2 equiv",175151
+21,"United States of America","Emissions (CH4)","Enteric Fermentation",1981,"kiloton of co2 equiv",179404
+22,"United States of America","Emissions (CH4)","Enteric Fermentation",1982,"kiloton of co2 equiv",180871
+23,"United States of America","Emissions (CH4)","Enteric Fermentation",1983,"kiloton of co2 equiv",180061
+24,"United States of America","Emissions (CH4)","Enteric Fermentation",1984,"kiloton of co2 equiv",177366
+25,"United States of America","Emissions (CH4)","Enteric Fermentation",1985,"kiloton of co2 equiv",172481
+26,"United States of America","Emissions (CH4)","Enteric Fermentation",1986,"kiloton of co2 equiv",166368
+27,"United States of America","Emissions (CH4)","Enteric Fermentation",1987,"kiloton of co2 equiv",161164
+28,"United States of America","Emissions (CH4)","Enteric Fermentation",1988,"kiloton of co2 equiv",157920
+29,"United States of America","Emissions (CH4)","Enteric Fermentation",1989,"kiloton of co2 equiv",153799
+30,"United States of America","Emissions (CH4)","Enteric Fermentation",1990,"kiloton of co2 equiv",152521
+31,"United States of America","Emissions (CH4)","Enteric Fermentation",1991,"kiloton of co2 equiv",153085
+32,"United States of America","Emissions (CH4)","Enteric Fermentation",1992,"kiloton of co2 equiv",154343
+33,"United States of America","Emissions (CH4)","Enteric Fermentation",1993,"kiloton of co2 equiv",156159
+34,"United States of America","Emissions (CH4)","Enteric Fermentation",1994,"kiloton of co2 equiv",158363
+35,"United States of America","Emissions (CH4)","Enteric Fermentation",1995,"kiloton of co2 equiv",160479
+36,"United States of America","Emissions (CH4)","Enteric Fermentation",1996,"kiloton of co2 equiv",161147
+37,"United States of America","Emissions (CH4)","Enteric Fermentation",1997,"kiloton of co2 equiv",158492
+38,"United States of America","Emissions (CH4)","Enteric Fermentation",1998,"kiloton of co2 equiv",155768
+39,"United States of America","Emissions (CH4)","Enteric Fermentation",1999,"kiloton of co2 equiv",154785
+40,"United States of America","Emissions (CH4)","Enteric Fermentation",2000,"kiloton of co2 equiv",153650
+41,"United States of America","Emissions (CH4)","Enteric Fermentation",2001,"kiloton of co2 equiv",152415
+42,"United States of America","Emissions (CH4)","Enteric Fermentation",2002,"kiloton of co2 equiv",151888
+43,"United States of America","Emissions (CH4)","Enteric Fermentation",2003,"kiloton of co2 equiv",151377
+44,"United States of America","Emissions (CH4)","Enteric Fermentation",2004,"kiloton of co2 equiv",150044
+45,"United States of America","Emissions (CH4)","Enteric Fermentation",2005,"kiloton of co2 equiv",150881
+46,"United States of America","Emissions (CH4)","Enteric Fermentation",2006,"kiloton of co2 equiv",153454
+47,"United States of America","Emissions (CH4)","Enteric Fermentation",2007,"kiloton of co2 equiv",153426
+48,"United States of America","Emissions (CH4)","Enteric Fermentation",2008,"kiloton of co2 equiv",153134
+49,"United States of America","Emissions (CH4)","Enteric Fermentation",2009,"kiloton of co2 equiv",151148
+50,"United States of America","Emissions (CH4)","Enteric Fermentation",2010,"kiloton of co2 equiv",150215
+51,"United States of America","Emissions (CH4)","Enteric Fermentation",2011,"kiloton of co2 equiv",148863
+52,"United States of America","Emissions (CH4)","Enteric Fermentation",2012,"kiloton of co2 equiv",146628
+53,"United States of America","Emissions (CH4)","Enteric Fermentation",2013,"kiloton of co2 equiv",145127
+54,"United States of America","Emissions (CH4)","Enteric Fermentation",2014,"kiloton of co2 equiv",143201
+55,"United States of America","Emissions (CH4)","Enteric Fermentation",2015,"kiloton of co2 equiv",144170
+56,"United States of America","Emissions (CH4)","Enteric Fermentation",2016,"kiloton of co2 equiv",148025
+57,"United States of America","Emissions (CH4)","Enteric Fermentation",2017,"kiloton of co2 equiv",150508
+58,"United States of America","Emissions (CH4)","Enteric Fermentation",2018,"kiloton of co2 equiv",151625
+59,"United States of America","Emissions (CH4)","Enteric Fermentation",2019,"kiloton of co2 equiv",152307
+60,"United States of America","Emissions (CH4)","Manure Management",1961,"kiloton of co2 equiv",39577
+61,"United States of America","Emissions (N2O)","Manure Management",1961,"kiloton of co2 equiv",13808.8
+62,"United States of America","Emissions (CH4)","Manure Management",1962,"kiloton of co2 equiv",40855.5
+63,"United States of America","Emissions (N2O)","Manure Management",1962,"kiloton of co2 equiv",14080.9
+64,"United States of America","Emissions (CH4)","Manure Management",1963,"kiloton of co2 equiv",40496.1
+65,"United States of America","Emissions (N2O)","Manure Management",1963,"kiloton of co2 equiv",14371.7
+66,"United States of America","Emissions (CH4)","Manure Management",1964,"kiloton of co2 equiv",39723
+67,"United States of America","Emissions (N2O)","Manure Management",1964,"kiloton of co2 equiv",14597.9
+68,"United States of America","Emissions (CH4)","Manure Management",1965,"kiloton of co2 equiv",37348.3
+69,"United States of America","Emissions (N2O)","Manure Management",1965,"kiloton of co2 equiv",14502.9
+70,"United States of America","Emissions (CH4)","Manure Management",1966,"kiloton of co2 equiv",34829.9
+71,"United States of America","Emissions (N2O)","Manure Management",1966,"kiloton of co2 equiv",14285.6
+72,"United States of America","Emissions (CH4)","Manure Management",1967,"kiloton of co2 equiv",35928.5
+73,"United States of America","Emissions (N2O)","Manure Management",1967,"kiloton of co2 equiv",14402.5
+74,"United States of America","Emissions (CH4)","Manure Management",1968,"kiloton of co2 equiv",35671.5
+75,"United States of America","Emissions (N2O)","Manure Management",1968,"kiloton of co2 equiv",14320.9
+76,"United States of America","Emissions (CH4)","Manure Management",1969,"kiloton of co2 equiv",35628.6
+77,"United States of America","Emissions (N2O)","Manure Management",1969,"kiloton of co2 equiv",14362
+78,"United States of America","Emissions (CH4)","Manure Management",1970,"kiloton of co2 equiv",34347.5
+79,"United States of America","Emissions (N2O)","Manure Management",1970,"kiloton of co2 equiv",14482.1
+80,"United States of America","Emissions (CH4)","Manure Management",1971,"kiloton of co2 equiv",37024.6
+81,"United States of America","Emissions (N2O)","Manure Management",1971,"kiloton of co2 equiv",14907.5
+82,"United States of America","Emissions (CH4)","Manure Management",1972,"kiloton of co2 equiv",35610.7
+83,"United States of America","Emissions (N2O)","Manure Management",1972,"kiloton of co2 equiv",15099.7
+84,"United States of America","Emissions (CH4)","Manure Management",1973,"kiloton of co2 equiv",34391.3
+85,"United States of America","Emissions (N2O)","Manure Management",1973,"kiloton of co2 equiv",15281.6
+86,"United States of America","Emissions (CH4)","Manure Management",1974,"kiloton of co2 equiv",34745.9
+87,"United States of America","Emissions (N2O)","Manure Management",1974,"kiloton of co2 equiv",15830.9
+88,"United States of America","Emissions (CH4)","Manure Management",1975,"kiloton of co2 equiv",33076.4
+89,"United States of America","Emissions (N2O)","Manure Management",1975,"kiloton of co2 equiv",15991.4
+90,"United States of America","Emissions (CH4)","Manure Management",1976,"kiloton of co2 equiv",31410.6
+91,"United States of America","Emissions (N2O)","Manure Management",1976,"kiloton of co2 equiv",15590.9
+92,"United States of America","Emissions (CH4)","Manure Management",1977,"kiloton of co2 equiv",32729.4
+93,"United States of America","Emissions (N2O)","Manure Management",1977,"kiloton of co2 equiv",15264.7
+94,"United States of America","Emissions (CH4)","Manure Management",1978,"kiloton of co2 equiv",32894.2
+95,"United States of America","Emissions (N2O)","Manure Management",1978,"kiloton of co2 equiv",14770.8
+96,"United States of America","Emissions (CH4)","Manure Management",1979,"kiloton of co2 equiv",33805.4
+97,"United States of America","Emissions (N2O)","Manure Management",1979,"kiloton of co2 equiv",14493.4
+98,"United States of America","Emissions (CH4)","Manure Management",1980,"kiloton of co2 equiv",35805.3
+99,"United States of America","Emissions (N2O)","Manure Management",1980,"kiloton of co2 equiv",14730.4
+100,"United States of America","Emissions (CH4)","Manure Management",1981,"kiloton of co2 equiv",35248.6
+101,"United States of America","Emissions (N2O)","Manure Management",1981,"kiloton of co2 equiv",14997.4
+102,"United States of America","Emissions (CH4)","Manure Management",1982,"kiloton of co2 equiv",33820.1
+103,"United States of America","Emissions (N2O)","Manure Management",1982,"kiloton of co2 equiv",14949
+104,"United States of America","Emissions (CH4)","Manure Management",1983,"kiloton of co2 equiv",32706.6
+105,"United States of America","Emissions (N2O)","Manure Management",1983,"kiloton of co2 equiv",14830.4
+106,"United States of America","Emissions (CH4)","Manure Management",1984,"kiloton of co2 equiv",32958.7
+107,"United States of America","Emissions (N2O)","Manure Management",1984,"kiloton of co2 equiv",14718.7
+108,"United States of America","Emissions (CH4)","Manure Management",1985,"kiloton of co2 equiv",32413
+109,"United States of America","Emissions (N2O)","Manure Management",1985,"kiloton of co2 equiv",14436.4
+110,"United States of America","Emissions (CH4)","Manure Management",1986,"kiloton of co2 equiv",31650.5
+111,"United States of America","Emissions (N2O)","Manure Management",1986,"kiloton of co2 equiv",14112.5
+112,"United States of America","Emissions (CH4)","Manure Management",1987,"kiloton of co2 equiv",30785.5
+113,"United States of America","Emissions (N2O)","Manure Management",1987,"kiloton of co2 equiv",13925.6
+114,"United States of America","Emissions (CH4)","Manure Management",1988,"kiloton of co2 equiv",31548.1
+115,"United States of America","Emissions (N2O)","Manure Management",1988,"kiloton of co2 equiv",13795.2
+116,"United States of America","Emissions (CH4)","Manure Management",1989,"kiloton of co2 equiv",31603.6
+117,"United States of America","Emissions (N2O)","Manure Management",1989,"kiloton of co2 equiv",13654.5
+118,"United States of America","Emissions (CH4)","Manure Management",1990,"kiloton of co2 equiv",31139.4
+119,"United States of America","Emissions (N2O)","Manure Management",1990,"kiloton of co2 equiv",13661.4
+120,"United States of America","Emissions (CH4)","Manure Management",1991,"kiloton of co2 equiv",32056.7
+121,"United States of America","Emissions (N2O)","Manure Management",1991,"kiloton of co2 equiv",13834.6
+122,"United States of America","Emissions (CH4)","Manure Management",1992,"kiloton of co2 equiv",32120.1
+123,"United States of America","Emissions (N2O)","Manure Management",1992,"kiloton of co2 equiv",13991.1
+124,"United States of America","Emissions (CH4)","Manure Management",1993,"kiloton of co2 equiv",32002.1
+125,"United States of America","Emissions (N2O)","Manure Management",1993,"kiloton of co2 equiv",14150.7
+126,"United States of America","Emissions (CH4)","Manure Management",1994,"kiloton of co2 equiv",32478
+127,"United States of America","Emissions (N2O)","Manure Management",1994,"kiloton of co2 equiv",14383.2
+128,"United States of America","Emissions (CH4)","Manure Management",1995,"kiloton of co2 equiv",32116.8
+129,"United States of America","Emissions (N2O)","Manure Management",1995,"kiloton of co2 equiv",14568.3
+130,"United States of America","Emissions (CH4)","Manure Management",1996,"kiloton of co2 equiv",31517.9
+131,"United States of America","Emissions (N2O)","Manure Management",1996,"kiloton of co2 equiv",14659.1
+132,"United States of America","Emissions (CH4)","Manure Management",1997,"kiloton of co2 equiv",32734.1
+133,"United States of America","Emissions (N2O)","Manure Management",1997,"kiloton of co2 equiv",14625.6
+134,"United States of America","Emissions (CH4)","Manure Management",1998,"kiloton of co2 equiv",32853.1
+135,"United States of America","Emissions (N2O)","Manure Management",1998,"kiloton of co2 equiv",14420.1
+136,"United States of America","Emissions (CH4)","Manure Management",1999,"kiloton of co2 equiv",32081.8
+137,"United States of America","Emissions (N2O)","Manure Management",1999,"kiloton of co2 equiv",14286.2
+138,"United States of America","Emissions (CH4)","Manure Management",2000,"kiloton of co2 equiv",32108.5
+139,"United States of America","Emissions (N2O)","Manure Management",2000,"kiloton of co2 equiv",14273.9
+140,"United States of America","Emissions (CH4)","Manure Management",2001,"kiloton of co2 equiv",32196.4
+141,"United States of America","Emissions (N2O)","Manure Management",2001,"kiloton of co2 equiv",14244.3
+142,"United States of America","Emissions (CH4)","Manure Management",2002,"kiloton of co2 equiv",32231.3
+143,"United States of America","Emissions (N2O)","Manure Management",2002,"kiloton of co2 equiv",14242.8
+144,"United States of America","Emissions (CH4)","Manure Management",2003,"kiloton of co2 equiv",32404.7
+145,"United States of America","Emissions (N2O)","Manure Management",2003,"kiloton of co2 equiv",14165.5
+146,"United States of America","Emissions (CH4)","Manure Management",2004,"kiloton of co2 equiv",32329.5
+147,"United States of America","Emissions (N2O)","Manure Management",2004,"kiloton of co2 equiv",14037.6
+148,"United States of America","Emissions (CH4)","Manure Management",2005,"kiloton of co2 equiv",32577.9
+149,"United States of America","Emissions (N2O)","Manure Management",2005,"kiloton of co2 equiv",14072.3
+150,"United States of America","Emissions (CH4)","Manure Management",2006,"kiloton of co2 equiv",32894.4
+151,"United States of America","Emissions (N2O)","Manure Management",2006,"kiloton of co2 equiv",14280.8
+152,"United States of America","Emissions (CH4)","Manure Management",2007,"kiloton of co2 equiv",33262.5
+153,"United States of America","Emissions (N2O)","Manure Management",2007,"kiloton of co2 equiv",14353.5
+154,"United States of America","Emissions (CH4)","Manure Management",2008,"kiloton of co2 equiv",34938.1
+155,"United States of America","Emissions (N2O)","Manure Management",2008,"kiloton of co2 equiv",14488.8
+156,"United States of America","Emissions (CH4)","Manure Management",2009,"kiloton of co2 equiv",33782.3
+157,"United States of America","Emissions (N2O)","Manure Management",2009,"kiloton of co2 equiv",14099.1
+158,"United States of America","Emissions (CH4)","Manure Management",2010,"kiloton of co2 equiv",33706.4
+159,"United States of America","Emissions (N2O)","Manure Management",2010,"kiloton of co2 equiv",14045.8
+160,"United States of America","Emissions (CH4)","Manure Management",2011,"kiloton of co2 equiv",34157.3
+161,"United States of America","Emissions (N2O)","Manure Management",2011,"kiloton of co2 equiv",13985.4
+162,"United States of America","Emissions (CH4)","Manure Management",2012,"kiloton of co2 equiv",34146.4
+163,"United States of America","Emissions (N2O)","Manure Management",2012,"kiloton of co2 equiv",13858.4
+164,"United States of America","Emissions (CH4)","Manure Management",2013,"kiloton of co2 equiv",33715.8
+165,"United States of America","Emissions (N2O)","Manure Management",2013,"kiloton of co2 equiv",13690.5
+166,"United States of America","Emissions (CH4)","Manure Management",2014,"kiloton of co2 equiv",34574.7
+167,"United States of America","Emissions (N2O)","Manure Management",2014,"kiloton of co2 equiv",13653.2
+168,"United States of America","Emissions (CH4)","Manure Management",2015,"kiloton of co2 equiv",34923
+169,"United States of America","Emissions (N2O)","Manure Management",2015,"kiloton of co2 equiv",13730.1
+170,"United States of America","Emissions (CH4)","Manure Management",2016,"kiloton of co2 equiv",35719.9
+171,"United States of America","Emissions (N2O)","Manure Management",2016,"kiloton of co2 equiv",14059.2
+172,"United States of America","Emissions (CH4)","Manure Management",2017,"kiloton of co2 equiv",36366.9
+173,"United States of America","Emissions (N2O)","Manure Management",2017,"kiloton of co2 equiv",14272.7
+174,"United States of America","Emissions (CH4)","Manure Management",2018,"kiloton of co2 equiv",37007.9
+175,"United States of America","Emissions (N2O)","Manure Management",2018,"kiloton of co2 equiv",14362.2
+176,"United States of America","Emissions (CH4)","Manure Management",2019,"kiloton of co2 equiv",37903.4
+177,"United States of America","Emissions (N2O)","Manure Management",2019,"kiloton of co2 equiv",14442.7
+178,"United States of America","Emissions (CH4)","Rice Cultivation",1961,"kiloton of co2 equiv",5626.25
+179,"United States of America","Emissions (CH4)","Rice Cultivation",1962,"kiloton of co2 equiv",6273.75
+180,"United States of America","Emissions (CH4)","Rice Cultivation",1963,"kiloton of co2 equiv",6273.75
+181,"United States of America","Emissions (CH4)","Rice Cultivation",1964,"kiloton of co2 equiv",6326.25
+182,"United States of America","Emissions (CH4)","Rice Cultivation",1965,"kiloton of co2 equiv",6347.86
+183,"United States of America","Emissions (CH4)","Rice Cultivation",1966,"kiloton of co2 equiv",6965.75
+184,"United States of America","Emissions (CH4)","Rice Cultivation",1967,"kiloton of co2 equiv",6976.02
+185,"United States of America","Emissions (CH4)","Rice Cultivation",1968,"kiloton of co2 equiv",8333.27
+186,"United States of America","Emissions (CH4)","Rice Cultivation",1969,"kiloton of co2 equiv",7536.56
+187,"United States of America","Emissions (CH4)","Rice Cultivation",1970,"kiloton of co2 equiv",6425.77
+188,"United States of America","Emissions (CH4)","Rice Cultivation",1971,"kiloton of co2 equiv",6437.09
+189,"United States of America","Emissions (CH4)","Rice Cultivation",1972,"kiloton of co2 equiv",6437.09
+190,"United States of America","Emissions (CH4)","Rice Cultivation",1973,"kiloton of co2 equiv",7684.57
+191,"United States of America","Emissions (CH4)","Rice Cultivation",1974,"kiloton of co2 equiv",8962.14
+192,"United States of America","Emissions (CH4)","Rice Cultivation",1975,"kiloton of co2 equiv",9978.4
+193,"United States of America","Emissions (CH4)","Rice Cultivation",1976,"kiloton of co2 equiv",8781.55
+194,"United States of America","Emissions (CH4)","Rice Cultivation",1977,"kiloton of co2 equiv",7963.81
+195,"United States of America","Emissions (CH4)","Rice Cultivation",1978,"kiloton of co2 equiv",10516.9
+196,"United States of America","Emissions (CH4)","Rice Cultivation",1979,"kiloton of co2 equiv",10159.3
+197,"United States of America","Emissions (CH4)","Rice Cultivation",1980,"kiloton of co2 equiv",11727.6
+198,"United States of America","Emissions (CH4)","Rice Cultivation",1981,"kiloton of co2 equiv",13427.6
+199,"United States of America","Emissions (CH4)","Rice Cultivation",1982,"kiloton of co2 equiv",11550.9
+200,"United States of America","Emissions (CH4)","Rice Cultivation",1983,"kiloton of co2 equiv",7680.31
+201,"United States of America","Emissions (CH4)","Rice Cultivation",1984,"kiloton of co2 equiv",9922.5
+202,"United States of America","Emissions (CH4)","Rice Cultivation",1985,"kiloton of co2 equiv",8824.38
+203,"United States of America","Emissions (CH4)","Rice Cultivation",1986,"kiloton of co2 equiv",8356.25
+204,"United States of America","Emissions (CH4)","Rice Cultivation",1987,"kiloton of co2 equiv",8260.88
+205,"United States of America","Emissions (CH4)","Rice Cultivation",1988,"kiloton of co2 equiv",10269
+206,"United States of America","Emissions (CH4)","Rice Cultivation",1989,"kiloton of co2 equiv",9511.25
+207,"United States of America","Emissions (CH4)","Rice Cultivation",1990,"kiloton of co2 equiv",9996
+208,"United States of America","Emissions (CH4)","Rice Cultivation",1991,"kiloton of co2 equiv",9847.6
+209,"United States of America","Emissions (CH4)","Rice Cultivation",1992,"kiloton of co2 equiv",11090.5
+210,"United States of America","Emissions (CH4)","Rice Cultivation",1993,"kiloton of co2 equiv",10031.8
+211,"United States of America","Emissions (CH4)","Rice Cultivation",1994,"kiloton of co2 equiv",11742.1
+212,"United States of America","Emissions (CH4)","Rice Cultivation",1995,"kiloton of co2 equiv",10952.5
+213,"United States of America","Emissions (CH4)","Rice Cultivation",1996,"kiloton of co2 equiv",9929.06
+214,"United States of America","Emissions (CH4)","Rice Cultivation",1997,"kiloton of co2 equiv",10987.8
+215,"United States of America","Emissions (CH4)","Rice Cultivation",1998,"kiloton of co2 equiv",11533.2
+216,"United States of America","Emissions (CH4)","Rice Cultivation",1999,"kiloton of co2 equiv",12436.1
+217,"United States of America","Emissions (CH4)","Rice Cultivation",2000,"kiloton of co2 equiv",10761.2
+218,"United States of America","Emissions (CH4)","Rice Cultivation",2001,"kiloton of co2 equiv",11735
+219,"United States of America","Emissions (CH4)","Rice Cultivation",2002,"kiloton of co2 equiv",11356.1
+220,"United States of America","Emissions (CH4)","Rice Cultivation",2003,"kiloton of co2 equiv",10612.5
+221,"United States of America","Emissions (CH4)","Rice Cultivation",2004,"kiloton of co2 equiv",11773.9
+222,"United States of America","Emissions (CH4)","Rice Cultivation",2005,"kiloton of co2 equiv",11912.1
+223,"United States of America","Emissions (CH4)","Rice Cultivation",2006,"kiloton of co2 equiv",9989.26
+224,"United States of America","Emissions (CH4)","Rice Cultivation",2007,"kiloton of co2 equiv",9730.79
+225,"United States of America","Emissions (CH4)","Rice Cultivation",2008,"kiloton of co2 equiv",10538.2
+226,"United States of America","Emissions (CH4)","Rice Cultivation",2009,"kiloton of co2 equiv",10987.8
+227,"United States of America","Emissions (CH4)","Rice Cultivation",2010,"kiloton of co2 equiv",12800.8
+228,"United States of America","Emissions (CH4)","Rice Cultivation",2011,"kiloton of co2 equiv",9266.86
+229,"United States of America","Emissions (CH4)","Rice Cultivation",2012,"kiloton of co2 equiv",9486.4
+230,"United States of America","Emissions (CH4)","Rice Cultivation",2013,"kiloton of co2 equiv",8742.83
+231,"United States of America","Emissions (CH4)","Rice Cultivation",2014,"kiloton of co2 equiv",10385.9
+232,"United States of America","Emissions (CH4)","Rice Cultivation",2015,"kiloton of co2 equiv",9118.2
+233,"United States of America","Emissions (CH4)","Rice Cultivation",2016,"kiloton of co2 equiv",10966.5
+234,"United States of America","Emissions (CH4)","Rice Cultivation",2017,"kiloton of co2 equiv",8406.39
+235,"United States of America","Emissions (CH4)","Rice Cultivation",2018,"kiloton of co2 equiv",10304.4
+236,"United States of America","Emissions (CH4)","Rice Cultivation",2019,"kiloton of co2 equiv",8753.41
+237,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1961,"kiloton of co2 equiv",18339.5
+238,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1962,"kiloton of co2 equiv",21078.1
+239,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1963,"kiloton of co2 equiv",23714.6
+240,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1964,"kiloton of co2 equiv",25579.2
+241,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1965,"kiloton of co2 equiv",28703.8
+242,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1966,"kiloton of co2 equiv",32624.4
+243,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1967,"kiloton of co2 equiv",36794.4
+244,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1968,"kiloton of co2 equiv",38848.2
+245,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1969,"kiloton of co2 equiv",41054.9
+246,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1970,"kiloton of co2 equiv",44530.5
+247,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1971,"kiloton of co2 equiv",45363.8
+248,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1972,"kiloton of co2 equiv",46185.9
+249,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1973,"kiloton of co2 equiv",49944
+250,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1974,"kiloton of co2 equiv",49447
+251,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1975,"kiloton of co2 equiv",55242.7
+252,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1976,"kiloton of co2 equiv",59495.6
+253,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1977,"kiloton of co2 equiv",57320.8
+254,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1978,"kiloton of co2 equiv",58900.5
+255,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1979,"kiloton of co2 equiv",62922.3
+256,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1980,"kiloton of co2 equiv",66157.9
+257,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1981,"kiloton of co2 equiv",63573.7
+258,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1982,"kiloton of co2 equiv",54824.7
+259,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1983,"kiloton of co2 equiv",58786.9
+260,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1984,"kiloton of co2 equiv",63947.4
+261,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1985,"kiloton of co2 equiv",60662.6
+262,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1986,"kiloton of co2 equiv",57867.9
+263,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1987,"kiloton of co2 equiv",58608
+264,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1988,"kiloton of co2 equiv",59474.7
+265,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1989,"kiloton of co2 equiv",61448.3
+266,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1990,"kiloton of co2 equiv",63141.6
+267,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1991,"kiloton of co2 equiv",64134.9
+268,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1992,"kiloton of co2 equiv",64227.9
+269,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1993,"kiloton of co2 equiv",68843.1
+270,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1994,"kiloton of co2 equiv",67679.7
+271,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1995,"kiloton of co2 equiv",68168.7
+272,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1996,"kiloton of co2 equiv",69438.8
+273,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1997,"kiloton of co2 equiv",69380.3
+274,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1998,"kiloton of co2 equiv",69832.3
+275,"United States of America","Emissions (N2O)","Synthetic Fertilizers",1999,"kiloton of co2 equiv",69645.7
+276,"United States of America","Emissions (N2O)","Synthetic Fertilizers",2000,"kiloton of co2 equiv",66412.5
+277,"United States of America","Emissions (N2O)","Synthetic Fertilizers",2001,"kiloton of co2 equiv",66718.1
+278,"United States of America","Emissions (N2O)","Synthetic Fertilizers",2002,"kiloton of co2 equiv",67912
+279,"United States of America","Emissions (N2O)","Synthetic Fertilizers",2003,"kiloton of co2 equiv",71594.6
+280,"United States of America","Emissions (N2O)","Synthetic Fertilizers",2004,"kiloton of co2 equiv",70725.6
+281,"United States of America","Emissions (N2O)","Synthetic Fertilizers",2005,"kiloton of co2 equiv",68337.6
+282,"United States of America","Emissions (N2O)","Synthetic Fertilizers",2006,"kiloton of co2 equiv",72133.3
+283,"United States of America","Emissions (N2O)","Synthetic Fertilizers",2007,"kiloton of co2 equiv",71882.9
+284,"United States of America","Emissions (N2O)","Synthetic Fertilizers",2008,"kiloton of co2 equiv",68775.7
+285,"United States of America","Emissions (N2O)","Synthetic Fertilizers",2009,"kiloton of co2 equiv",65926.6
+286,"United States of America","Emissions (N2O)","Synthetic Fertilizers",2010,"kiloton of co2 equiv",68604.5
+287,"United States of America","Emissions (N2O)","Synthetic Fertilizers",2011,"kiloton of co2 equiv",74742.6
+288,"United States of America","Emissions (N2O)","Synthetic Fertilizers",2012,"kiloton of co2 equiv",75804.4
+289,"United States of America","Emissions (N2O)","Synthetic Fertilizers",2013,"kiloton of co2 equiv",75618.4
+290,"United States of America","Emissions (N2O)","Synthetic Fertilizers",2014,"kiloton of co2 equiv",74306.4
+291,"United States of America","Emissions (N2O)","Synthetic Fertilizers",2015,"kiloton of co2 equiv",73013
+292,"United States of America","Emissions (N2O)","Synthetic Fertilizers",2016,"kiloton of co2 equiv",72631.8
+293,"United States of America","Emissions (N2O)","Synthetic Fertilizers",2017,"kiloton of co2 equiv",73045.7
+294,"United States of America","Emissions (N2O)","Synthetic Fertilizers",2018,"kiloton of co2 equiv",72251.4
+295,"United States of America","Emissions (N2O)","Synthetic Fertilizers",2019,"kiloton of co2 equiv",72643
+296,"United States of America","Emissions (N2O)","Manure applied to Soils",1961,"kiloton of co2 equiv",13930.2
+297,"United States of America","Emissions (N2O)","Manure applied to Soils",1962,"kiloton of co2 equiv",13950.2
+298,"United States of America","Emissions (N2O)","Manure applied to Soils",1963,"kiloton of co2 equiv",13928.3
+299,"United States of America","Emissions (N2O)","Manure applied to Soils",1964,"kiloton of co2 equiv",13930
+300,"United States of America","Emissions (N2O)","Manure applied to Soils",1965,"kiloton of co2 equiv",13729.6
+301,"United States of America","Emissions (N2O)","Manure applied to Soils",1966,"kiloton of co2 equiv",13450.2
+302,"United States of America","Emissions (N2O)","Manure applied to Soils",1967,"kiloton of co2 equiv",13629.7
+303,"United States of America","Emissions (N2O)","Manure applied to Soils",1968,"kiloton of co2 equiv",13287.1
+304,"United States of America","Emissions (N2O)","Manure applied to Soils",1969,"kiloton of co2 equiv",13253.5
+305,"United States of America","Emissions (N2O)","Manure applied to Soils",1970,"kiloton of co2 equiv",13262.1
+306,"United States of America","Emissions (N2O)","Manure applied to Soils",1971,"kiloton of co2 equiv",13635.7
+307,"United States of America","Emissions (N2O)","Manure applied to Soils",1972,"kiloton of co2 equiv",13669.4
+308,"United States of America","Emissions (N2O)","Manure applied to Soils",1973,"kiloton of co2 equiv",13556.7
+309,"United States of America","Emissions (N2O)","Manure applied to Soils",1974,"kiloton of co2 equiv",13736.8
+310,"United States of America","Emissions (N2O)","Manure applied to Soils",1975,"kiloton of co2 equiv",13516.1
+311,"United States of America","Emissions (N2O)","Manure applied to Soils",1976,"kiloton of co2 equiv",13458.2
+312,"United States of America","Emissions (N2O)","Manure applied to Soils",1977,"kiloton of co2 equiv",13446.4
+313,"United States of America","Emissions (N2O)","Manure applied to Soils",1978,"kiloton of co2 equiv",13383.5
+314,"United States of America","Emissions (N2O)","Manure applied to Soils",1979,"kiloton of co2 equiv",13640.3
+315,"United States of America","Emissions (N2O)","Manure applied to Soils",1980,"kiloton of co2 equiv",13964.5
+316,"United States of America","Emissions (N2O)","Manure applied to Soils",1981,"kiloton of co2 equiv",14143
+317,"United States of America","Emissions (N2O)","Manure applied to Soils",1982,"kiloton of co2 equiv",13971.7
+318,"United States of America","Emissions (N2O)","Manure applied to Soils",1983,"kiloton of co2 equiv",13878.9
+319,"United States of America","Emissions (N2O)","Manure applied to Soils",1984,"kiloton of co2 equiv",13866.2
+320,"United States of America","Emissions (N2O)","Manure applied to Soils",1985,"kiloton of co2 equiv",13947.6
+321,"United States of America","Emissions (N2O)","Manure applied to Soils",1986,"kiloton of co2 equiv",14015.1
+322,"United States of America","Emissions (N2O)","Manure applied to Soils",1987,"kiloton of co2 equiv",14275.8
+323,"United States of America","Emissions (N2O)","Manure applied to Soils",1988,"kiloton of co2 equiv",14324.7
+324,"United States of America","Emissions (N2O)","Manure applied to Soils",1989,"kiloton of co2 equiv",14518.7
+325,"United States of America","Emissions (N2O)","Manure applied to Soils",1990,"kiloton of co2 equiv",14795.2
+326,"United States of America","Emissions (N2O)","Manure applied to Soils",1991,"kiloton of co2 equiv",15036
+327,"United States of America","Emissions (N2O)","Manure applied to Soils",1992,"kiloton of co2 equiv",15222.3
+328,"United States of America","Emissions (N2O)","Manure applied to Soils",1993,"kiloton of co2 equiv",15347.2
+329,"United States of America","Emissions (N2O)","Manure applied to Soils",1994,"kiloton of co2 equiv",15561.4
+330,"United States of America","Emissions (N2O)","Manure applied to Soils",1995,"kiloton of co2 equiv",15753.7
+331,"United States of America","Emissions (N2O)","Manure applied to Soils",1996,"kiloton of co2 equiv",15929.7
+332,"United States of America","Emissions (N2O)","Manure applied to Soils",1997,"kiloton of co2 equiv",16068.6
+333,"United States of America","Emissions (N2O)","Manure applied to Soils",1998,"kiloton of co2 equiv",15873.7
+334,"United States of America","Emissions (N2O)","Manure applied to Soils",1999,"kiloton of co2 equiv",15736.3
+335,"United States of America","Emissions (N2O)","Manure applied to Soils",2000,"kiloton of co2 equiv",15896.9
+336,"United States of America","Emissions (N2O)","Manure applied to Soils",2001,"kiloton of co2 equiv",15992.6
+337,"United States of America","Emissions (N2O)","Manure applied to Soils",2002,"kiloton of co2 equiv",16111.3
+338,"United States of America","Emissions (N2O)","Manure applied to Soils",2003,"kiloton of co2 equiv",16003.2
+339,"United States of America","Emissions (N2O)","Manure applied to Soils",2004,"kiloton of co2 equiv",15911.6
+340,"United States of America","Emissions (N2O)","Manure applied to Soils",2005,"kiloton of co2 equiv",15958
+341,"United States of America","Emissions (N2O)","Manure applied to Soils",2006,"kiloton of co2 equiv",16157.1
+342,"United States of America","Emissions (N2O)","Manure applied to Soils",2007,"kiloton of co2 equiv",16342.2
+343,"United States of America","Emissions (N2O)","Manure applied to Soils",2008,"kiloton of co2 equiv",16616.5
+344,"United States of America","Emissions (N2O)","Manure applied to Soils",2009,"kiloton of co2 equiv",15940.9
+345,"United States of America","Emissions (N2O)","Manure applied to Soils",2010,"kiloton of co2 equiv",15934.8
+346,"United States of America","Emissions (N2O)","Manure applied to Soils",2011,"kiloton of co2 equiv",15958.4
+347,"United States of America","Emissions (N2O)","Manure applied to Soils",2012,"kiloton of co2 equiv",15968.9
+348,"United States of America","Emissions (N2O)","Manure applied to Soils",2013,"kiloton of co2 equiv",15779.2
+349,"United States of America","Emissions (N2O)","Manure applied to Soils",2014,"kiloton of co2 equiv",15894.7
+350,"United States of America","Emissions (N2O)","Manure applied to Soils",2015,"kiloton of co2 equiv",15932.8
+351,"United States of America","Emissions (N2O)","Manure applied to Soils",2016,"kiloton of co2 equiv",16184
+352,"United States of America","Emissions (N2O)","Manure applied to Soils",2017,"kiloton of co2 equiv",16342.7
+353,"United States of America","Emissions (N2O)","Manure applied to Soils",2018,"kiloton of co2 equiv",16374.9
+354,"United States of America","Emissions (N2O)","Manure applied to Soils",2019,"kiloton of co2 equiv",16374.2
+355,"United States of America","Emissions (N2O)","Manure left on Pasture",1961,"kiloton of co2 equiv",37053.1
+356,"United States of America","Emissions (N2O)","Manure left on Pasture",1962,"kiloton of co2 equiv",38124.1
+357,"United States of America","Emissions (N2O)","Manure left on Pasture",1963,"kiloton of co2 equiv",39814.5
+358,"United States of America","Emissions (N2O)","Manure left on Pasture",1964,"kiloton of co2 equiv",41214.4
+359,"United States of America","Emissions (N2O)","Manure left on Pasture",1965,"kiloton of co2 equiv",42100.1
+360,"United States of America","Emissions (N2O)","Manure left on Pasture",1966,"kiloton of co2 equiv",42327.2
+361,"United States of America","Emissions (N2O)","Manure left on Pasture",1967,"kiloton of co2 equiv",42505.5
+362,"United States of America","Emissions (N2O)","Manure left on Pasture",1968,"kiloton of co2 equiv",42912
+363,"United States of America","Emissions (N2O)","Manure left on Pasture",1969,"kiloton of co2 equiv",43346.5
+364,"United States of America","Emissions (N2O)","Manure left on Pasture",1970,"kiloton of co2 equiv",44428.1
+365,"United States of America","Emissions (N2O)","Manure left on Pasture",1971,"kiloton of co2 equiv",45433.5
+366,"United States of America","Emissions (N2O)","Manure left on Pasture",1972,"kiloton of co2 equiv",46751.3
+367,"United States of America","Emissions (N2O)","Manure left on Pasture",1973,"kiloton of co2 equiv",48300.7
+368,"United States of America","Emissions (N2O)","Manure left on Pasture",1974,"kiloton of co2 equiv",50845.1
+369,"United States of America","Emissions (N2O)","Manure left on Pasture",1975,"kiloton of co2 equiv",52522.1
+370,"United States of America","Emissions (N2O)","Manure left on Pasture",1976,"kiloton of co2 equiv",50860.8
+371,"United States of America","Emissions (N2O)","Manure left on Pasture",1977,"kiloton of co2 equiv",48761.8
+372,"United States of America","Emissions (N2O)","Manure left on Pasture",1978,"kiloton of co2 equiv",46222.3
+373,"United States of America","Emissions (N2O)","Manure left on Pasture",1979,"kiloton of co2 equiv",44006.3
+374,"United States of America","Emissions (N2O)","Manure left on Pasture",1980,"kiloton of co2 equiv",44169.3
+375,"United States of America","Emissions (N2O)","Manure left on Pasture",1981,"kiloton of co2 equiv",45424.3
+376,"United States of America","Emissions (N2O)","Manure left on Pasture",1982,"kiloton of co2 equiv",45844
+377,"United States of America","Emissions (N2O)","Manure left on Pasture",1983,"kiloton of co2 equiv",45620.5
+378,"United States of America","Emissions (N2O)","Manure left on Pasture",1984,"kiloton of co2 equiv",45012
+379,"United States of America","Emissions (N2O)","Manure left on Pasture",1985,"kiloton of co2 equiv",43401.9
+380,"United States of America","Emissions (N2O)","Manure left on Pasture",1986,"kiloton of co2 equiv",41738.8
+381,"United States of America","Emissions (N2O)","Manure left on Pasture",1987,"kiloton of co2 equiv",40534.2
+382,"United States of America","Emissions (N2O)","Manure left on Pasture",1988,"kiloton of co2 equiv",39580.5
+383,"United States of America","Emissions (N2O)","Manure left on Pasture",1989,"kiloton of co2 equiv",38461.6
+384,"United States of America","Emissions (N2O)","Manure left on Pasture",1990,"kiloton of co2 equiv",38131.4
+385,"United States of America","Emissions (N2O)","Manure left on Pasture",1991,"kiloton of co2 equiv",38414.6
+386,"United States of America","Emissions (N2O)","Manure left on Pasture",1992,"kiloton of co2 equiv",38926.7
+387,"United States of America","Emissions (N2O)","Manure left on Pasture",1993,"kiloton of co2 equiv",39594.3
+388,"United States of America","Emissions (N2O)","Manure left on Pasture",1994,"kiloton of co2 equiv",40333.1
+389,"United States of America","Emissions (N2O)","Manure left on Pasture",1995,"kiloton of co2 equiv",41046.4
+390,"United States of America","Emissions (N2O)","Manure left on Pasture",1996,"kiloton of co2 equiv",41372.8
+391,"United States of America","Emissions (N2O)","Manure left on Pasture",1997,"kiloton of co2 equiv",40614.3
+392,"United States of America","Emissions (N2O)","Manure left on Pasture",1998,"kiloton of co2 equiv",39860.9
+393,"United States of America","Emissions (N2O)","Manure left on Pasture",1999,"kiloton of co2 equiv",39592.9
+394,"United States of America","Emissions (N2O)","Manure left on Pasture",2000,"kiloton of co2 equiv",39221.4
+395,"United States of America","Emissions (N2O)","Manure left on Pasture",2001,"kiloton of co2 equiv",38951.1
+396,"United States of America","Emissions (N2O)","Manure left on Pasture",2002,"kiloton of co2 equiv",38825.7
+397,"United States of America","Emissions (N2O)","Manure left on Pasture",2003,"kiloton of co2 equiv",38826.8
+398,"United States of America","Emissions (N2O)","Manure left on Pasture",2004,"kiloton of co2 equiv",38596.5
+399,"United States of America","Emissions (N2O)","Manure left on Pasture",2005,"kiloton of co2 equiv",38950.5
+400,"United States of America","Emissions (N2O)","Manure left on Pasture",2006,"kiloton of co2 equiv",39695.4
+401,"United States of America","Emissions (N2O)","Manure left on Pasture",2007,"kiloton of co2 equiv",39634
+402,"United States of America","Emissions (N2O)","Manure left on Pasture",2008,"kiloton of co2 equiv",39375.4
+403,"United States of America","Emissions (N2O)","Manure left on Pasture",2009,"kiloton of co2 equiv",38928.9
+404,"United States of America","Emissions (N2O)","Manure left on Pasture",2010,"kiloton of co2 equiv",38735.6
+405,"United States of America","Emissions (N2O)","Manure left on Pasture",2011,"kiloton of co2 equiv",38257.5
+406,"United States of America","Emissions (N2O)","Manure left on Pasture",2012,"kiloton of co2 equiv",37553.4
+407,"United States of America","Emissions (N2O)","Manure left on Pasture",2013,"kiloton of co2 equiv",37118
+408,"United States of America","Emissions (N2O)","Manure left on Pasture",2014,"kiloton of co2 equiv",36467.2
+409,"United States of America","Emissions (N2O)","Manure left on Pasture",2015,"kiloton of co2 equiv",36708.5
+410,"United States of America","Emissions (N2O)","Manure left on Pasture",2016,"kiloton of co2 equiv",37892.1
+411,"United States of America","Emissions (N2O)","Manure left on Pasture",2017,"kiloton of co2 equiv",38590.6
+412,"United States of America","Emissions (N2O)","Manure left on Pasture",2018,"kiloton of co2 equiv",38864
+413,"United States of America","Emissions (N2O)","Manure left on Pasture",2019,"kiloton of co2 equiv",39107.6
+414,"United States of America","Emissions (N2O)","Crop Residues",1961,"kiloton of co2 equiv",11845.2
+415,"United States of America","Emissions (N2O)","Crop Residues",1962,"kiloton of co2 equiv",11611.1
+416,"United States of America","Emissions (N2O)","Crop Residues",1963,"kiloton of co2 equiv",12278.8
+417,"United States of America","Emissions (N2O)","Crop Residues",1964,"kiloton of co2 equiv",11746.9
+418,"United States of America","Emissions (N2O)","Crop Residues",1965,"kiloton of co2 equiv",13043
+419,"United States of America","Emissions (N2O)","Crop Residues",1966,"kiloton of co2 equiv",13260.5
+420,"United States of America","Emissions (N2O)","Crop Residues",1967,"kiloton of co2 equiv",14661.6
+421,"United States of America","Emissions (N2O)","Crop Residues",1968,"kiloton of co2 equiv",14655.1
+422,"United States of America","Emissions (N2O)","Crop Residues",1969,"kiloton of co2 equiv",14644.7
+423,"United States of America","Emissions (N2O)","Crop Residues",1970,"kiloton of co2 equiv",13808.3
+424,"United States of America","Emissions (N2O)","Crop Residues",1971,"kiloton of co2 equiv",16360.2
+425,"United States of America","Emissions (N2O)","Crop Residues",1972,"kiloton of co2 equiv",15883.1
+426,"United States of America","Emissions (N2O)","Crop Residues",1973,"kiloton of co2 equiv",17235.1
+427,"United States of America","Emissions (N2O)","Crop Residues",1974,"kiloton of co2 equiv",15341.9
+428,"United States of America","Emissions (N2O)","Crop Residues",1975,"kiloton of co2 equiv",18129.8
+429,"United States of America","Emissions (N2O)","Crop Residues",1976,"kiloton of co2 equiv",18059.3
+430,"United States of America","Emissions (N2O)","Crop Residues",1977,"kiloton of co2 equiv",19207.6
+431,"United States of America","Emissions (N2O)","Crop Residues",1978,"kiloton of co2 equiv",19683.4
+432,"United States of America","Emissions (N2O)","Crop Residues",1979,"kiloton of co2 equiv",21695.6
+433,"United States of America","Emissions (N2O)","Crop Residues",1980,"kiloton of co2 equiv",19833.4
+434,"United States of America","Emissions (N2O)","Crop Residues",1981,"kiloton of co2 equiv",23189
+435,"United States of America","Emissions (N2O)","Crop Residues",1982,"kiloton of co2 equiv",23587.8
+436,"United States of America","Emissions (N2O)","Crop Residues",1983,"kiloton of co2 equiv",16517
+437,"United States of America","Emissions (N2O)","Crop Residues",1984,"kiloton of co2 equiv",22065.7
+438,"United States of America","Emissions (N2O)","Crop Residues",1985,"kiloton of co2 equiv",23566.1
+439,"United States of America","Emissions (N2O)","Crop Residues",1986,"kiloton of co2 equiv",21480.9
+440,"United States of America","Emissions (N2O)","Crop Residues",1987,"kiloton of co2 equiv",19720.4
+441,"United States of America","Emissions (N2O)","Crop Residues",1988,"kiloton of co2 equiv",15620.7
+442,"United States of America","Emissions (N2O)","Crop Residues",1989,"kiloton of co2 equiv",19938.6
+443,"United States of America","Emissions (N2O)","Crop Residues",1990,"kiloton of co2 equiv",21583.2
+444,"United States of America","Emissions (N2O)","Crop Residues",1991,"kiloton of co2 equiv",19762.6
+445,"United States of America","Emissions (N2O)","Crop Residues",1992,"kiloton of co2 equiv",23575.5
+446,"United States of America","Emissions (N2O)","Crop Residues",1993,"kiloton of co2 equiv",18848.8
+447,"United States of America","Emissions (N2O)","Crop Residues",1994,"kiloton of co2 equiv",24031.9
+448,"United States of America","Emissions (N2O)","Crop Residues",1995,"kiloton of co2 equiv",20016.8
+449,"United States of America","Emissions (N2O)","Crop Residues",1996,"kiloton of co2 equiv",23061.2
+450,"United States of America","Emissions (N2O)","Crop Residues",1997,"kiloton of co2 equiv",23742.1
+451,"United States of America","Emissions (N2O)","Crop Residues",1998,"kiloton of co2 equiv",24387.5
+452,"United States of America","Emissions (N2O)","Crop Residues",1999,"kiloton of co2 equiv",23469.3
+453,"United States of America","Emissions (N2O)","Crop Residues",2000,"kiloton of co2 equiv",23864.2
+454,"United States of America","Emissions (N2O)","Crop Residues",2001,"kiloton of co2 equiv",22988
+455,"United States of America","Emissions (N2O)","Crop Residues",2002,"kiloton of co2 equiv",21339.2
+456,"United States of America","Emissions (N2O)","Crop Residues",2003,"kiloton of co2 equiv",23710.2
+457,"United States of America","Emissions (N2O)","Crop Residues",2004,"kiloton of co2 equiv",26229.2
+458,"United States of America","Emissions (N2O)","Crop Residues",2005,"kiloton of co2 equiv",25048.4
+459,"United States of America","Emissions (N2O)","Crop Residues",2006,"kiloton of co2 equiv",23782.8
+460,"United States of America","Emissions (N2O)","Crop Residues",2007,"kiloton of co2 equiv",26479.7
+461,"United States of America","Emissions (N2O)","Crop Residues",2008,"kiloton of co2 equiv",26905.8
+462,"United States of America","Emissions (N2O)","Crop Residues",2009,"kiloton of co2 equiv",27905.6
+463,"United States of America","Emissions (N2O)","Crop Residues",2010,"kiloton of co2 equiv",27103.5
+464,"United States of America","Emissions (N2O)","Crop Residues",2011,"kiloton of co2 equiv",25807.6
+465,"United States of America","Emissions (N2O)","Crop Residues",2012,"kiloton of co2 equiv",24888.3
+466,"United States of America","Emissions (N2O)","Crop Residues",2013,"kiloton of co2 equiv",28534
+467,"United States of America","Emissions (N2O)","Crop Residues",2014,"kiloton of co2 equiv",29745.8
+468,"United States of America","Emissions (N2O)","Crop Residues",2015,"kiloton of co2 equiv",29298.7
+469,"United States of America","Emissions (N2O)","Crop Residues",2016,"kiloton of co2 equiv",33050.7
+470,"United States of America","Emissions (N2O)","Crop Residues",2017,"kiloton of co2 equiv",30124.5
+471,"United States of America","Emissions (N2O)","Crop Residues",2018,"kiloton of co2 equiv",30189.9
+472,"United States of America","Emissions (N2O)","Crop Residues",2019,"kiloton of co2 equiv",27854.7
+473,"United States of America","Emissions (CH4)","Burning - Crop residues",1961,"kiloton of co2 equiv",2169.52
+474,"United States of America","Emissions (N2O)","Burning - Crop residues",1961,"kiloton of co2 equiv",670.47
+475,"United States of America","Emissions (CH4)","Burning - Crop residues",1962,"kiloton of co2 equiv",2034.64
+476,"United States of America","Emissions (N2O)","Burning - Crop residues",1962,"kiloton of co2 equiv",628.78
+477,"United States of America","Emissions (CH4)","Burning - Crop residues",1963,"kiloton of co2 equiv",2151.9
+478,"United States of America","Emissions (N2O)","Burning - Crop residues",1963,"kiloton of co2 equiv",665.017
+479,"United States of America","Emissions (CH4)","Burning - Crop residues",1964,"kiloton of co2 equiv",2095.18
+480,"United States of America","Emissions (N2O)","Burning - Crop residues",1964,"kiloton of co2 equiv",647.494
+481,"United States of America","Emissions (CH4)","Burning - Crop residues",1965,"kiloton of co2 equiv",2092.48
+482,"United States of America","Emissions (N2O)","Burning - Crop residues",1965,"kiloton of co2 equiv",646.66
+483,"United States of America","Emissions (CH4)","Burning - Crop residues",1966,"kiloton of co2 equiv",2139.8
+484,"United States of America","Emissions (N2O)","Burning - Crop residues",1966,"kiloton of co2 equiv",661.292
+485,"United States of America","Emissions (CH4)","Burning - Crop residues",1967,"kiloton of co2 equiv",2336.24
+486,"United States of America","Emissions (N2O)","Burning - Crop residues",1967,"kiloton of co2 equiv",721.994
+487,"United States of America","Emissions (CH4)","Burning - Crop residues",1968,"kiloton of co2 equiv",2173.64
+488,"United States of America","Emissions (N2O)","Burning - Crop residues",1968,"kiloton of co2 equiv",671.722
+489,"United States of America","Emissions (CH4)","Burning - Crop residues",1969,"kiloton of co2 equiv",2047.36
+490,"United States of America","Emissions (N2O)","Burning - Crop residues",1969,"kiloton of co2 equiv",632.714
+491,"United States of America","Emissions (CH4)","Burning - Crop residues",1970,"kiloton of co2 equiv",2080.41
+492,"United States of America","Emissions (N2O)","Burning - Crop residues",1970,"kiloton of co2 equiv",642.935
+493,"United States of America","Emissions (CH4)","Burning - Crop residues",1971,"kiloton of co2 equiv",2311.42
+494,"United States of America","Emissions (N2O)","Burning - Crop residues",1971,"kiloton of co2 equiv",714.306
+495,"United States of America","Emissions (CH4)","Burning - Crop residues",1972,"kiloton of co2 equiv",2127.64
+496,"United States of America","Emissions (N2O)","Burning - Crop residues",1972,"kiloton of co2 equiv",657.507
+497,"United States of America","Emissions (CH4)","Burning - Crop residues",1973,"kiloton of co2 equiv",2334.9
+498,"United States of America","Emissions (N2O)","Burning - Crop residues",1973,"kiloton of co2 equiv",721.577
+499,"United States of America","Emissions (CH4)","Burning - Crop residues",1974,"kiloton of co2 equiv",2551.89
+500,"United States of America","Emissions (N2O)","Burning - Crop residues",1974,"kiloton of co2 equiv",788.627
+501,"United States of America","Emissions (CH4)","Burning - Crop residues",1975,"kiloton of co2 equiv",2662.69
+502,"United States of America","Emissions (N2O)","Burning - Crop residues",1975,"kiloton of co2 equiv",822.867
+503,"United States of America","Emissions (CH4)","Burning - Crop residues",1976,"kiloton of co2 equiv",2778.75
+504,"United States of America","Emissions (N2O)","Burning - Crop residues",1976,"kiloton of co2 equiv",858.747
+505,"United States of America","Emissions (CH4)","Burning - Crop residues",1977,"kiloton of co2 equiv",2732.11
+506,"United States of America","Emissions (N2O)","Burning - Crop residues",1977,"kiloton of co2 equiv",844.323
+507,"United States of America","Emissions (CH4)","Burning - Crop residues",1978,"kiloton of co2 equiv",2640.01
+508,"United States of America","Emissions (N2O)","Burning - Crop residues",1978,"kiloton of co2 equiv",815.864
+509,"United States of America","Emissions (CH4)","Burning - Crop residues",1979,"kiloton of co2 equiv",2716.19
+510,"United States of America","Emissions (N2O)","Burning - Crop residues",1979,"kiloton of co2 equiv",839.406
+511,"United States of America","Emissions (CH4)","Burning - Crop residues",1980,"kiloton of co2 equiv",2832.92
+512,"United States of America","Emissions (N2O)","Burning - Crop residues",1980,"kiloton of co2 equiv",875.464
+513,"United States of America","Emissions (CH4)","Burning - Crop residues",1981,"kiloton of co2 equiv",2987.22
+514,"United States of America","Emissions (N2O)","Burning - Crop residues",1981,"kiloton of co2 equiv",923.174
+515,"United States of America","Emissions (CH4)","Burning - Crop residues",1982,"kiloton of co2 equiv",2900.15
+516,"United States of America","Emissions (N2O)","Burning - Crop residues",1982,"kiloton of co2 equiv",896.265
+517,"United States of America","Emissions (CH4)","Burning - Crop residues",1983,"kiloton of co2 equiv",2123.28
+518,"United States of America","Emissions (N2O)","Burning - Crop residues",1983,"kiloton of co2 equiv",656.166
+519,"United States of America","Emissions (CH4)","Burning - Crop residues",1984,"kiloton of co2 equiv",2750.58
+520,"United States of America","Emissions (N2O)","Burning - Crop residues",1984,"kiloton of co2 equiv",850.015
+521,"United States of America","Emissions (CH4)","Burning - Crop residues",1985,"kiloton of co2 equiv",2812.51
+522,"United States of America","Emissions (N2O)","Burning - Crop residues",1985,"kiloton of co2 equiv",869.177
+523,"United States of America","Emissions (CH4)","Burning - Crop residues",1986,"kiloton of co2 equiv",2594.92
+524,"United States of America","Emissions (N2O)","Burning - Crop residues",1986,"kiloton of co2 equiv",801.918
+525,"United States of America","Emissions (CH4)","Burning - Crop residues",1987,"kiloton of co2 equiv",2286.52
+526,"United States of America","Emissions (N2O)","Burning - Crop residues",1987,"kiloton of co2 equiv",706.618
+527,"United States of America","Emissions (CH4)","Burning - Crop residues",1988,"kiloton of co2 equiv",2230.93
+528,"United States of America","Emissions (N2O)","Burning - Crop residues",1988,"kiloton of co2 equiv",689.453
+529,"United States of America","Emissions (CH4)","Burning - Crop residues",1989,"kiloton of co2 equiv",2504.57
+530,"United States of America","Emissions (N2O)","Burning - Crop residues",1989,"kiloton of co2 equiv",773.995
+531,"United States of America","Emissions (CH4)","Burning - Crop residues",1990,"kiloton of co2 equiv",2640.47
+532,"United States of America","Emissions (N2O)","Burning - Crop residues",1990,"kiloton of co2 equiv",816.013
+533,"United States of America","Emissions (CH4)","Burning - Crop residues",1991,"kiloton of co2 equiv",2569.28
+534,"United States of America","Emissions (N2O)","Burning - Crop residues",1991,"kiloton of co2 equiv",793.991
+535,"United States of America","Emissions (CH4)","Burning - Crop residues",1992,"kiloton of co2 equiv",2718.15
+536,"United States of America","Emissions (N2O)","Burning - Crop residues",1992,"kiloton of co2 equiv",840.002
+537,"United States of America","Emissions (CH4)","Burning - Crop residues",1993,"kiloton of co2 equiv",2463.75
+538,"United States of America","Emissions (N2O)","Burning - Crop residues",1993,"kiloton of co2 equiv",761.39
+539,"United States of America","Emissions (CH4)","Burning - Crop residues",1994,"kiloton of co2 equiv",2722.21
+540,"United States of America","Emissions (N2O)","Burning - Crop residues",1994,"kiloton of co2 equiv",841.254
+541,"United States of America","Emissions (CH4)","Burning - Crop residues",1995,"kiloton of co2 equiv",2510.83
+542,"United States of America","Emissions (N2O)","Burning - Crop residues",1995,"kiloton of co2 equiv",775.932
+543,"United States of America","Emissions (CH4)","Burning - Crop residues",1996,"kiloton of co2 equiv",2728.48
+544,"United States of America","Emissions (N2O)","Burning - Crop residues",1996,"kiloton of co2 equiv",843.191
+545,"United States of America","Emissions (CH4)","Burning - Crop residues",1997,"kiloton of co2 equiv",2734.12
+546,"United States of America","Emissions (N2O)","Burning - Crop residues",1997,"kiloton of co2 equiv",844.949
+547,"United States of America","Emissions (CH4)","Burning - Crop residues",1998,"kiloton of co2 equiv",2693.34
+548,"United States of America","Emissions (N2O)","Burning - Crop residues",1998,"kiloton of co2 equiv",832.344
+549,"United States of America","Emissions (CH4)","Burning - Crop residues",1999,"kiloton of co2 equiv",2583.95
+550,"United States of America","Emissions (N2O)","Burning - Crop residues",1999,"kiloton of co2 equiv",798.551
+551,"United States of America","Emissions (CH4)","Burning - Crop residues",2000,"kiloton of co2 equiv",2622.6
+552,"United States of America","Emissions (N2O)","Burning - Crop residues",2000,"kiloton of co2 equiv",810.471
+553,"United States of America","Emissions (CH4)","Burning - Crop residues",2001,"kiloton of co2 equiv",2476.19
+554,"United States of America","Emissions (N2O)","Burning - Crop residues",2001,"kiloton of co2 equiv",765.234
+555,"United States of America","Emissions (CH4)","Burning - Crop residues",2002,"kiloton of co2 equiv",2460.91
+556,"United States of America","Emissions (N2O)","Burning - Crop residues",2002,"kiloton of co2 equiv",760.526
+557,"United States of America","Emissions (CH4)","Burning - Crop residues",2003,"kiloton of co2 equiv",2580.39
+558,"United States of America","Emissions (N2O)","Burning - Crop residues",2003,"kiloton of co2 equiv",797.448
+559,"United States of America","Emissions (CH4)","Burning - Crop residues",2004,"kiloton of co2 equiv",2623.95
+560,"United States of America","Emissions (N2O)","Burning - Crop residues",2004,"kiloton of co2 equiv",810.888
+561,"United States of America","Emissions (CH4)","Burning - Crop residues",2005,"kiloton of co2 equiv",2666.32
+562,"United States of America","Emissions (N2O)","Burning - Crop residues",2005,"kiloton of co2 equiv",824
+563,"United States of America","Emissions (CH4)","Burning - Crop residues",2006,"kiloton of co2 equiv",2499.28
+564,"United States of America","Emissions (N2O)","Burning - Crop residues",2006,"kiloton of co2 equiv",772.356
+565,"United States of America","Emissions (CH4)","Burning - Crop residues",2007,"kiloton of co2 equiv",2977.58
+566,"United States of America","Emissions (N2O)","Burning - Crop residues",2007,"kiloton of co2 equiv",920.194
+567,"United States of America","Emissions (CH4)","Burning - Crop residues",2008,"kiloton of co2 equiv",2814.99
+568,"United States of America","Emissions (N2O)","Burning - Crop residues",2008,"kiloton of co2 equiv",869.922
+569,"United States of America","Emissions (CH4)","Burning - Crop residues",2009,"kiloton of co2 equiv",2778.69
+570,"United States of America","Emissions (N2O)","Burning - Crop residues",2009,"kiloton of co2 equiv",858.717
+571,"United States of America","Emissions (CH4)","Burning - Crop residues",2010,"kiloton of co2 equiv",2815.03
+572,"United States of America","Emissions (N2O)","Burning - Crop residues",2010,"kiloton of co2 equiv",869.951
+573,"United States of America","Emissions (CH4)","Burning - Crop residues",2011,"kiloton of co2 equiv",2845.5
+574,"United States of America","Emissions (N2O)","Burning - Crop residues",2011,"kiloton of co2 equiv",879.368
+575,"United States of America","Emissions (CH4)","Burning - Crop residues",2012,"kiloton of co2 equiv",2977.32
+576,"United States of America","Emissions (N2O)","Burning - Crop residues",2012,"kiloton of co2 equiv",920.105
+577,"United States of America","Emissions (CH4)","Burning - Crop residues",2013,"kiloton of co2 equiv",2937.46
+578,"United States of America","Emissions (N2O)","Burning - Crop residues",2013,"kiloton of co2 equiv",907.768
+579,"United States of America","Emissions (CH4)","Burning - Crop residues",2014,"kiloton of co2 equiv",2837.31
+580,"United States of America","Emissions (N2O)","Burning - Crop residues",2014,"kiloton of co2 equiv",876.835
+581,"United States of America","Emissions (CH4)","Burning - Crop residues",2015,"kiloton of co2 equiv",2774.81
+582,"United States of America","Emissions (N2O)","Burning - Crop residues",2015,"kiloton of co2 equiv",857.525
+583,"United States of America","Emissions (CH4)","Burning - Crop residues",2016,"kiloton of co2 equiv",2911.33
+584,"United States of America","Emissions (N2O)","Burning - Crop residues",2016,"kiloton of co2 equiv",899.722
+585,"United States of America","Emissions (CH4)","Burning - Crop residues",2017,"kiloton of co2 equiv",2722.05
+586,"United States of America","Emissions (N2O)","Burning - Crop residues",2017,"kiloton of co2 equiv",841.224
+587,"United States of America","Emissions (CH4)","Burning - Crop residues",2018,"kiloton of co2 equiv",2712.7
+588,"United States of America","Emissions (N2O)","Burning - Crop residues",2018,"kiloton of co2 equiv",838.334
+589,"United States of America","Emissions (CH4)","Burning - Crop residues",2019,"kiloton of co2 equiv",2683.58
+590,"United States of America","Emissions (N2O)","Burning - Crop residues",2019,"kiloton of co2 equiv",829.334
+591,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",1990,"kiloton of co2 equiv",40908.5
+592,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",1991,"kiloton of co2 equiv",40908.5
+593,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",1992,"kiloton of co2 equiv",40908.5
+594,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",1993,"kiloton of co2 equiv",40908.5
+595,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",1994,"kiloton of co2 equiv",40783.1
+596,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",1995,"kiloton of co2 equiv",40908.5
+597,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",1996,"kiloton of co2 equiv",40843.4
+598,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",1997,"kiloton of co2 equiv",40791.5
+599,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",1998,"kiloton of co2 equiv",40855.7
+600,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",1999,"kiloton of co2 equiv",40860.4
+601,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",2000,"kiloton of co2 equiv",40960.5
+602,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",2001,"kiloton of co2 equiv",40861.3
+603,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",2002,"kiloton of co2 equiv",40846
+604,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",2003,"kiloton of co2 equiv",40825.1
+605,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",2004,"kiloton of co2 equiv",40755.2
+606,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",2005,"kiloton of co2 equiv",40694.1
+607,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",2006,"kiloton of co2 equiv",40620.2
+608,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",2007,"kiloton of co2 equiv",40579.9
+609,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",2008,"kiloton of co2 equiv",40488.7
+610,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",2009,"kiloton of co2 equiv",40430.7
+611,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",2010,"kiloton of co2 equiv",40415
+612,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",2011,"kiloton of co2 equiv",40370.2
+613,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",2012,"kiloton of co2 equiv",40300.7
+614,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",2013,"kiloton of co2 equiv",40183.6
+615,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",2014,"kiloton of co2 equiv",40120.6
+616,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",2015,"kiloton of co2 equiv",40087.3
+617,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",2016,"kiloton of co2 equiv",39883.3
+618,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",2017,"kiloton of co2 equiv",39860.3
+619,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",2018,"kiloton of co2 equiv",39955.1
+620,"United States of America","Emissions (CO2)","Drained organic soils (CO2)",2019,"kiloton of co2 equiv",39955.1
+621,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",1990,"kiloton of co2 equiv",8002.07
+622,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",1991,"kiloton of co2 equiv",8002.07
+623,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",1992,"kiloton of co2 equiv",8002.07
+624,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",1993,"kiloton of co2 equiv",8002.07
+625,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",1994,"kiloton of co2 equiv",7983.57
+626,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",1995,"kiloton of co2 equiv",8023.83
+627,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",1996,"kiloton of co2 equiv",8016.92
+628,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",1997,"kiloton of co2 equiv",8010.66
+629,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",1998,"kiloton of co2 equiv",8020.52
+630,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",1999,"kiloton of co2 equiv",8021.53
+631,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",2000,"kiloton of co2 equiv",8030.62
+632,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",2001,"kiloton of co2 equiv",8018.46
+633,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",2002,"kiloton of co2 equiv",8018.73
+634,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",2003,"kiloton of co2 equiv",8015.19
+635,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",2004,"kiloton of co2 equiv",8005.8
+636,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",2005,"kiloton of co2 equiv",7997.99
+637,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",2006,"kiloton of co2 equiv",7988.37
+638,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",2007,"kiloton of co2 equiv",7986.43
+639,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",2008,"kiloton of co2 equiv",7980.56
+640,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",2009,"kiloton of co2 equiv",7974.84
+641,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",2010,"kiloton of co2 equiv",7973.62
+642,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",2011,"kiloton of co2 equiv",7968.43
+643,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",2012,"kiloton of co2 equiv",7958.42
+644,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",2013,"kiloton of co2 equiv",7939.67
+645,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",2014,"kiloton of co2 equiv",7929.3
+646,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",2015,"kiloton of co2 equiv",7922.48
+647,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",2016,"kiloton of co2 equiv",7895.06
+648,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",2017,"kiloton of co2 equiv",7892.41
+649,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",2018,"kiloton of co2 equiv",7912.5
+650,"United States of America","Emissions (N2O)","Drained organic soils (N2O)",2019,"kiloton of co2 equiv",7912.5
+651,"United States of America","Emissions (CO2)","Net Forest conversion",1990,"kiloton of co2 equiv",61079.7
+652,"United States of America","Emissions (CO2)","Net Forest conversion",1991,"kiloton of co2 equiv",61079.7
+653,"United States of America","Emissions (CO2)","Net Forest conversion",1992,"kiloton of co2 equiv",61079.7
+654,"United States of America","Emissions (CO2)","Net Forest conversion",1993,"kiloton of co2 equiv",61079.7
+655,"United States of America","Emissions (CO2)","Net Forest conversion",1994,"kiloton of co2 equiv",61079.7
+656,"United States of America","Emissions (CO2)","Net Forest conversion",1995,"kiloton of co2 equiv",61079.7
+657,"United States of America","Emissions (CO2)","Net Forest conversion",1996,"kiloton of co2 equiv",61079.7
+658,"United States of America","Emissions (CO2)","Net Forest conversion",1997,"kiloton of co2 equiv",61079.7
+659,"United States of America","Emissions (CO2)","Net Forest conversion",1998,"kiloton of co2 equiv",61079.7
+660,"United States of America","Emissions (CO2)","Net Forest conversion",1999,"kiloton of co2 equiv",61079.7
+661,"United States of America","Emissions (CO2)","Net Forest conversion",2000,"kiloton of co2 equiv",61079.7
+662,"United States of America","Emissions (CO2)","Net Forest conversion",2001,"kiloton of co2 equiv",0
+663,"United States of America","Emissions (CO2)","Net Forest conversion",2002,"kiloton of co2 equiv",0
+664,"United States of America","Emissions (CO2)","Net Forest conversion",2003,"kiloton of co2 equiv",0
+665,"United States of America","Emissions (CO2)","Net Forest conversion",2004,"kiloton of co2 equiv",0
+666,"United States of America","Emissions (CO2)","Net Forest conversion",2005,"kiloton of co2 equiv",0
+667,"United States of America","Emissions (CO2)","Net Forest conversion",2006,"kiloton of co2 equiv",0
+668,"United States of America","Emissions (CO2)","Net Forest conversion",2007,"kiloton of co2 equiv",0
+669,"United States of America","Emissions (CO2)","Net Forest conversion",2008,"kiloton of co2 equiv",0
+670,"United States of America","Emissions (CO2)","Net Forest conversion",2009,"kiloton of co2 equiv",0
+671,"United States of America","Emissions (CO2)","Net Forest conversion",2010,"kiloton of co2 equiv",0
+672,"United States of America","Emissions (CO2)","Net Forest conversion",2011,"kiloton of co2 equiv",0
+673,"United States of America","Emissions (CO2)","Net Forest conversion",2012,"kiloton of co2 equiv",0
+674,"United States of America","Emissions (CO2)","Net Forest conversion",2013,"kiloton of co2 equiv",0
+675,"United States of America","Emissions (CO2)","Net Forest conversion",2014,"kiloton of co2 equiv",0
+676,"United States of America","Emissions (CO2)","Net Forest conversion",2015,"kiloton of co2 equiv",0
+677,"United States of America","Emissions (CO2)","Net Forest conversion",2016,"kiloton of co2 equiv",59727.3
+678,"United States of America","Emissions (CO2)","Net Forest conversion",2017,"kiloton of co2 equiv",59727.3
+679,"United States of America","Emissions (CO2)","Net Forest conversion",2018,"kiloton of co2 equiv",59727.3
+680,"United States of America","Emissions (CO2)","Net Forest conversion",2019,"kiloton of co2 equiv",59727.3
+681,"United States of America","Emissions (CH4)","On-farm energy use",1990,"kiloton of co2 equiv",513.485
+682,"United States of America","Emissions (N2O)","On-farm energy use",1990,"kiloton of co2 equiv",3891.16
+683,"United States of America","Emissions (CO2)","On-farm energy use",1990,"kiloton of co2 equiv",50419.3
+684,"United States of America","Emissions (CH4)","On-farm energy use",1991,"kiloton of co2 equiv",509.235
+685,"United States of America","Emissions (N2O)","On-farm energy use",1991,"kiloton of co2 equiv",3919.18
+686,"United States of America","Emissions (CO2)","On-farm energy use",1991,"kiloton of co2 equiv",50510.1
+687,"United States of America","Emissions (CH4)","On-farm energy use",1992,"kiloton of co2 equiv",420.562
+688,"United States of America","Emissions (N2O)","On-farm energy use",1992,"kiloton of co2 equiv",4217.95
+689,"United States of America","Emissions (CO2)","On-farm energy use",1992,"kiloton of co2 equiv",53248
+690,"United States of America","Emissions (CH4)","On-farm energy use",1993,"kiloton of co2 equiv",409.105
+691,"United States of America","Emissions (N2O)","On-farm energy use",1993,"kiloton of co2 equiv",3923.32
+692,"United States of America","Emissions (CO2)","On-farm energy use",1993,"kiloton of co2 equiv",50742.3
+693,"United States of America","Emissions (CH4)","On-farm energy use",1994,"kiloton of co2 equiv",430.753
+694,"United States of America","Emissions (N2O)","On-farm energy use",1994,"kiloton of co2 equiv",3879.24
+695,"United States of America","Emissions (CO2)","On-farm energy use",1994,"kiloton of co2 equiv",51607.8
+696,"United States of America","Emissions (CH4)","On-farm energy use",1995,"kiloton of co2 equiv",422.262
+697,"United States of America","Emissions (N2O)","On-farm energy use",1995,"kiloton of co2 equiv",3918.46
+698,"United States of America","Emissions (CO2)","On-farm energy use",1995,"kiloton of co2 equiv",51683.7
+699,"United States of America","Emissions (CH4)","On-farm energy use",1996,"kiloton of co2 equiv",423.572
+700,"United States of America","Emissions (N2O)","On-farm energy use",1996,"kiloton of co2 equiv",4019.54
+701,"United States of America","Emissions (CO2)","On-farm energy use",1996,"kiloton of co2 equiv",52952.4
+702,"United States of America","Emissions (CH4)","On-farm energy use",1997,"kiloton of co2 equiv",451.44
+703,"United States of America","Emissions (N2O)","On-farm energy use",1997,"kiloton of co2 equiv",3975.05
+704,"United States of America","Emissions (CO2)","On-farm energy use",1997,"kiloton of co2 equiv",53688.4
+705,"United States of America","Emissions (CH4)","On-farm energy use",1998,"kiloton of co2 equiv",417.58
+706,"United States of America","Emissions (N2O)","On-farm energy use",1998,"kiloton of co2 equiv",3623.83
+707,"United States of America","Emissions (CO2)","On-farm energy use",1998,"kiloton of co2 equiv",49763.4
+708,"United States of America","Emissions (CH4)","On-farm energy use",1999,"kiloton of co2 equiv",381.53
+709,"United States of America","Emissions (N2O)","On-farm energy use",1999,"kiloton of co2 equiv",3427.8
+710,"United States of America","Emissions (CO2)","On-farm energy use",1999,"kiloton of co2 equiv",46584.4
+711,"United States of America","Emissions (CH4)","On-farm energy use",2000,"kiloton of co2 equiv",373.825
+712,"United States of America","Emissions (N2O)","On-farm energy use",2000,"kiloton of co2 equiv",3757.42
+713,"United States of America","Emissions (CO2)","On-farm energy use",2000,"kiloton of co2 equiv",49294.1
+714,"United States of America","Emissions (CH4)","On-farm energy use",2001,"kiloton of co2 equiv",419.997
+715,"United States of America","Emissions (N2O)","On-farm energy use",2001,"kiloton of co2 equiv",4118.96
+716,"United States of America","Emissions (CO2)","On-farm energy use",2001,"kiloton of co2 equiv",53727.3
+717,"United States of America","Emissions (CH4)","On-farm energy use",2002,"kiloton of co2 equiv",418.05
+718,"United States of America","Emissions (N2O)","On-farm energy use",2002,"kiloton of co2 equiv",3815.65
+719,"United States of America","Emissions (CO2)","On-farm energy use",2002,"kiloton of co2 equiv",51803.9
+720,"United States of America","Emissions (CH4)","On-farm energy use",2003,"kiloton of co2 equiv",458.04
+721,"United States of America","Emissions (N2O)","On-farm energy use",2003,"kiloton of co2 equiv",3260.69
+722,"United States of America","Emissions (CO2)","On-farm energy use",2003,"kiloton of co2 equiv",46732.1
+723,"United States of America","Emissions (CH4)","On-farm energy use",2004,"kiloton of co2 equiv",593.297
+724,"United States of America","Emissions (N2O)","On-farm energy use",2004,"kiloton of co2 equiv",4224.24
+725,"United States of America","Emissions (CO2)","On-farm energy use",2004,"kiloton of co2 equiv",57559.2
+726,"United States of America","Emissions (CH4)","On-farm energy use",2005,"kiloton of co2 equiv",584.282
+727,"United States of America","Emissions (N2O)","On-farm energy use",2005,"kiloton of co2 equiv",4280.98
+728,"United States of America","Emissions (CO2)","On-farm energy use",2005,"kiloton of co2 equiv",56955.3
+729,"United States of America","Emissions (CH4)","On-farm energy use",2006,"kiloton of co2 equiv",403.285
+730,"United States of America","Emissions (N2O)","On-farm energy use",2006,"kiloton of co2 equiv",4607.47
+731,"United States of America","Emissions (CO2)","On-farm energy use",2006,"kiloton of co2 equiv",61128.3
+732,"United States of America","Emissions (CH4)","On-farm energy use",2007,"kiloton of co2 equiv",372.598
+733,"United States of America","Emissions (N2O)","On-farm energy use",2007,"kiloton of co2 equiv",4240.36
+734,"United States of America","Emissions (CO2)","On-farm energy use",2007,"kiloton of co2 equiv",56972.3
+735,"United States of America","Emissions (CH4)","On-farm energy use",2008,"kiloton of co2 equiv",266.41
+736,"United States of America","Emissions (N2O)","On-farm energy use",2008,"kiloton of co2 equiv",4432.54
+737,"United States of America","Emissions (CO2)","On-farm energy use",2008,"kiloton of co2 equiv",55043.7
+738,"United States of America","Emissions (CH4)","On-farm energy use",2009,"kiloton of co2 equiv",267.348
+739,"United States of America","Emissions (N2O)","On-farm energy use",2009,"kiloton of co2 equiv",3985.93
+740,"United States of America","Emissions (CO2)","On-farm energy use",2009,"kiloton of co2 equiv",51204.1
+741,"United States of America","Emissions (CH4)","On-farm energy use",2010,"kiloton of co2 equiv",234.862
+742,"United States of America","Emissions (N2O)","On-farm energy use",2010,"kiloton of co2 equiv",4675.32
+743,"United States of America","Emissions (CO2)","On-farm energy use",2010,"kiloton of co2 equiv",52116.1
+744,"United States of America","Emissions (CH4)","On-farm energy use",2011,"kiloton of co2 equiv",420.057
+745,"United States of America","Emissions (N2O)","On-farm energy use",2011,"kiloton of co2 equiv",3798.4
+746,"United States of America","Emissions (CO2)","On-farm energy use",2011,"kiloton of co2 equiv",49713.5
+747,"United States of America","Emissions (CH4)","On-farm energy use",2012,"kiloton of co2 equiv",391.812
+748,"United States of America","Emissions (N2O)","On-farm energy use",2012,"kiloton of co2 equiv",3586.04
+749,"United States of America","Emissions (CO2)","On-farm energy use",2012,"kiloton of co2 equiv",47409.5
+750,"United States of America","Emissions (CH4)","On-farm energy use",2013,"kiloton of co2 equiv",394.943
+751,"United States of America","Emissions (N2O)","On-farm energy use",2013,"kiloton of co2 equiv",3883.8
+752,"United States of America","Emissions (CO2)","On-farm energy use",2013,"kiloton of co2 equiv",51537.3
+753,"United States of America","Emissions (CH4)","On-farm energy use",2014,"kiloton of co2 equiv",389.703
+754,"United States of America","Emissions (N2O)","On-farm energy use",2014,"kiloton of co2 equiv",3852.1
+755,"United States of America","Emissions (CO2)","On-farm energy use",2014,"kiloton of co2 equiv",49504.6
+756,"United States of America","Emissions (CH4)","On-farm energy use",2015,"kiloton of co2 equiv",427.195
+757,"United States of America","Emissions (N2O)","On-farm energy use",2015,"kiloton of co2 equiv",3673.98
+758,"United States of America","Emissions (CO2)","On-farm energy use",2015,"kiloton of co2 equiv",49577.1
+759,"United States of America","Emissions (CH4)","On-farm energy use",2016,"kiloton of co2 equiv",367.578
+760,"United States of America","Emissions (N2O)","On-farm energy use",2016,"kiloton of co2 equiv",3654.25
+761,"United States of America","Emissions (CO2)","On-farm energy use",2016,"kiloton of co2 equiv",47714.3
+762,"United States of America","Emissions (CH4)","On-farm energy use",2017,"kiloton of co2 equiv",435.698
+763,"United States of America","Emissions (N2O)","On-farm energy use",2017,"kiloton of co2 equiv",3238.72
+764,"United States of America","Emissions (CO2)","On-farm energy use",2017,"kiloton of co2 equiv",47213.2
+765,"United States of America","Emissions (CH4)","On-farm energy use",2018,"kiloton of co2 equiv",421.032
+766,"United States of America","Emissions (N2O)","On-farm energy use",2018,"kiloton of co2 equiv",3105.07
+767,"United States of America","Emissions (CO2)","On-farm energy use",2018,"kiloton of co2 equiv",47775.2
+768,"United States of America","Emissions (CH4)","On-farm energy use",2019,"kiloton of co2 equiv",427.297
+769,"United States of America","Emissions (N2O)","On-farm energy use",2019,"kiloton of co2 equiv",2955.65
+770,"United States of America","Emissions (CO2)","On-farm energy use",2019,"kiloton of co2 equiv",47429.4

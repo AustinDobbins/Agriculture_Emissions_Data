@@ -1,0 +1,36 @@
+id,cause,yr,MtCO2e
+1,Enteric,1961,1375
+2,Enteric,1990,1875
+3,Enteric,2000,1863
+4,Enteric,2005,1947
+5,Enteric,2010,2018
+6,"Manure On Pasture",1961,386
+7,"Manure On Pasture",1990,578
+8,"Manure On Pasture",2000,682
+9,"Manure On Pasture",2005,731
+10,"Manure On Pasture",2010,764
+11,"Synth Fertilizer",1961,67
+12,"Synth Fertilizer",1990,434
+13,"Synth Fertilizer",2000,521
+14,"Synth Fertilizer",2005,582
+15,"Synth Fertilizer",2010,683
+16,Rice,1961,366
+17,Rice,1990,466
+18,Rice,2000,490
+19,Rice,2005,493
+20,Rice,2010,499
+21,"Manure MGMT",1961,284
+22,"Manure MGMT",1990,319
+23,"Manure MGMT",2000,348
+24,"Manure MGMT",2005,348
+25,"Manure MGMT",2010,353
+26,"Crop Residues",1961,66
+27,"Crop Residues",1990,124
+28,"Crop Residues",2000,129
+29,"Crop Residues",2005,142
+30,"Crop Residues",2010,151
+31,"Manure For Soil",1961,59
+32,"Manure For Soil",1990,88
+33,"Manure For Soil",2000,103
+34,"Manure For Soil",2005,111
+35,"Manure For Soil",2010,116

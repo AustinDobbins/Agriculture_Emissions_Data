@@ -1,0 +1,5 @@
+Calculations to create unit of measure of greenhouse gas emission amount
+
+- For CH4 the amount has been multiplied by 25 to compensate for the EPA's calculation determining CH4 has a 25 times more potent global warming effect when compared to CO2
+- For N2O the amount has been multiplied by 298 to compensate for the EPA's calculation determining N2O has as 298 times more potent global warming effect when compared to CO2
+
